@@ -6,11 +6,11 @@ andrellvalverde.github.io
 This is my first try at github!
 
 My Github user page is at: 
-https://github.com/dantnguyen/
+https://github.com/andrellvalverde/
 
 My Github Pages repo can be found at:  
-https://github.com/dantnguyen/dantnguyen.github.io/
+https://github.com/andrellvalverde/andrellvalverde.github.io/
 
 And, soon, you can see my customized homepage at:
 
-http://dantnguyen.github.io/
+http://andrellvalverde.github.io/
